@@ -24,4 +24,4 @@ app.post('/',(req,res)=>{
     })
 })
 
-app.listen(process.env.PORT||80,console.log('80'))
+app.listen(process.env.PORT||5000,console.log('5000'))
