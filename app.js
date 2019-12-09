@@ -18,7 +18,7 @@ app.get('/',(req,res)=>{
 app.post('/',(req,res)=>{
     console.log(req.body.name,req.body.stuff);
 
-    res.render('nextpage.ejs',{
+    res.render('welcome.ejs',{
         name: req.body.name,
         stuff:req.body.age
     })
