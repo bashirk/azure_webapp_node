@@ -12,7 +12,7 @@
   "url": ""
   },
   "keywords": [],
-  "author": "",
+  "author": "Korede Bashir",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.1",
